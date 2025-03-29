@@ -11,7 +11,11 @@
 
 4) Open CMD / Terminal(prog.type)
  |	
- |------>> python(version ; opt )  processor.py  input.txt  "program.exe"  out.txt
+ |------>> python(version ; opt )  processor.py  in.txt  "program.exe"  out.txt
 								|
 					     in " " , like str__|
-5) ...
+5) To make easy in CMD :
+	|
+	|_____ > doskey test= python processor.py in.txt "program.exe" out.txt
+
+6) Then for every run : > test
