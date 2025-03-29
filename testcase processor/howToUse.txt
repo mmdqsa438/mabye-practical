@@ -1,0 +1,17 @@
+
+1) Make a text file as input then paste all
+ |__testcases in correspanding by three "#" (### no more! ) .
+
+2) Make a text file as output (out.txt) for
+ |__processing result. (after every run will overwrite)
+
+
+3) Put your executed program file (p.exe) , input ,
+ |__output to same directory with processor.py
+
+4) Open CMD / Terminal(prog.type)
+ |	
+ |------>> python(version ; opt )  processor.py  input.txt  "program.exe"  out.txt
+								|
+					     in " " , like str__|
+5) ...
